@@ -1,5 +1,5 @@
 
-<h1> goormedu Algorithm theory of solving inventive problem Basic </h1>
+<h1> goormedu Algorithm Basic </h1>
 
 <h3> Introduction & Tutorial </h3>
 
