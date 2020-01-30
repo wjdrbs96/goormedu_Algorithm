@@ -4,7 +4,7 @@
 <h3> 코드와 친해지기 </h3>
 
 <ul>
-  <li>탐색하기1</li>
+  <li><a href="https://github.com/wjdrbs96/goormedu_Algorithm/blob/master/CodeFun/Search1.java">탐색하기1</a></li>
 </ul>
 
 <h3> 알고리즘 연산량 </h3>
@@ -22,7 +22,7 @@
 <h3> DFS/BFS</h3>
 
 <ul>
-  <li>그래프의 탐색1</li>
+  <li><a href="https://github.com/wjdrbs96/goormedu_Algorithm/blob/master/DFSBFS/GraphSearch1.java">그래프의 탐색1</a></li>
 </ul>
 
 <h3> 그래프 알고리즘 </h3>
