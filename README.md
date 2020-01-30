@@ -1,5 +1,5 @@
 
-<h1> goormedu Algorithm Basic </h1>
+<h1><a href="https://edu.goorm.io/learn/lecture/554/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%EA%B8%B0%EB%B2%95-%EC%9E%85%EB%AC%B8"> goormedu Algorithm Basic</a> </h1>
 
 <h3> 코드와 친해지기 </h3>
 
