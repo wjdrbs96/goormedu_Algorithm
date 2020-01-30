@@ -23,6 +23,7 @@
 
 <ul>
   <li><a href="https://github.com/wjdrbs96/goormedu_Algorithm/blob/master/DFSBFS/GraphSearch1.java">그래프의 탐색1</a></li>
+  <li><a href="https://github.com/wjdrbs96/goormedu_Algorithm/blob/master/DFSBFS/GraphSearch2.java">그래프의 탐색2</a></li>
 </ul>
 
 <h3> 그래프 알고리즘 </h3>
