@@ -1,8 +1,6 @@
 
 <h1> goormedu Algorithm Basic </h1>
 
-<h3> Introduction & Tutorial </h3>
-
 <h3> 코드와 친해지기 </h3>
 
 <h3> 알고리즘 연산량 </h3>
