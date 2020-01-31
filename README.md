@@ -18,8 +18,8 @@
 <h3> 자료구조 활용하기 </h3>
 
 <ul>
-  <li><a href="https://github.com/wjdrbs96/goormedu_Algorithm/blob/master/Data_Structure/Duplicate.java"></a>중복 제거하기</li>
-  <li><a href="https://github.com/wjdrbs96/goormedu_Algorithm/blob/master/Data_Structure/MainFrequencyCount.java"></a>빈도수 세기</li>
+  <li><a href="https://github.com/wjdrbs96/goormedu_Algorithm/blob/master/Data_Structure/Duplicate.java">중복 제거하기</a></li>
+  <li><a href="https://github.com/wjdrbs96/goormedu_Algorithm/blob/master/Data_Structure/MainFrequencyCount.java">빈도수 세기</a></li>
 </ul>
 
 <h3> 재귀 함수와 분할 정복 </h3>
