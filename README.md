@@ -20,6 +20,7 @@
 <ul>
   <li><a href="https://github.com/wjdrbs96/goormedu_Algorithm/blob/master/Data_Structure/Duplicate.java">중복 제거하기</a></li>
   <li><a href="https://github.com/wjdrbs96/goormedu_Algorithm/blob/master/Data_Structure/MainFrequencyCount.java">빈도수 세기</a></li>
+  <li><a href="https://github.com/wjdrbs96/goormedu_Algorithm/blob/master/Data_Structure/Main_ArraySum.java">배열 합치기</a></li>
 </ul>
 
 <h3> 재귀 함수와 분할 정복 </h3>
