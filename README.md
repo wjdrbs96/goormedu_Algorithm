@@ -12,6 +12,7 @@
 <ul>
   <li><a href="https://github.com/wjdrbs96/goormedu_Algorithm/blob/master/Algorithms/StringSolve.java">문자열 비교하기</a></li>
   <li><a href="https://github.com/wjdrbs96/goormedu_Algorithm/blob/master/Algorithms/Diversity.java">다양성 </a></li>
+  <li><a href="https://github.com/wjdrbs96/goormedu_Algorithm/blob/master/Algorithms/MatchFixing.java">승부조작</a></li>
 </ul>
 
 <h3> 공간 활용하기 </h3>
