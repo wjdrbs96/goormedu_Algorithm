@@ -1,21 +1,16 @@
 
-# <a href="https://edu.goorm.io/learn/lecture/554/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%EA%B8%B0%EB%B2%95-%EC%9E%85%EB%AC%B8"> goormedu Algorithm Basic</a> 
+# [goormedu Algorithm Basic](https://edu.goorm.io/learn/lecture/554/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%EA%B8%B0%EB%B2%95-%EC%9E%85%EB%AC%B8) 
 
 ### 코드와 친해지기 
 
 * [탐색하기1](https://github.com/wjdrbs96/goormedu_Algorithm/blob/master/CodeFun/Search1.java)
 
 
-<<<<<<< HEAD
 ### 알고리즘 연산량 
-=======
-<ul>
-  <li><a href="https://github.com/wjdrbs96/goormedu_Algorithm/blob/master/Algorithms/StringSolve.java">문자열 비교하기</a></li>
-  <li><a href="https://github.com/wjdrbs96/goormedu_Algorithm/blob/master/Algorithms/Diversity.java">다양성 </a></li>
-  <li><a href="https://github.com/wjdrbs96/goormedu_Algorithm/blob/master/Algorithms/MatchFixing.java">승부조작</a></li>
-</ul>
->>>>>>> aa22323027e6beefde72915f1f5d3a02f9bc4942
 
+* [문자열 비교하기](https://github.com/wjdrbs96/goormedu_Algorithm/blob/master/Algorithms/StringSolve.java)
+* [다양성](https://github.com/wjdrbs96/goormedu_Algorithm/blob/master/Algorithms/Diversity.java)
+* [승부조작](https://github.com/wjdrbs96/goormedu_Algorithm/blob/master/Algorithms/MatchFixing.java)
 * [문자열 비교하기](https://github.com/wjdrbs96/goormedu_Algorithm/blob/master/Algorithms/StringSolve.java)
 * [다양성](https://github.com/wjdrbs96/goormedu_Algorithm/blob/master/Algorithms/Diversity.java)
 
@@ -24,6 +19,7 @@
 
 ### 자주 사용되는 수학 알고리즘 
 
+* [소수 세기](https://github.com/wjdrbs96/goormedu_Algorithm/blob/master/Math/PrimeNumber.java)
 
 ### 구현 훈련하기 
 
