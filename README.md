@@ -6,7 +6,15 @@
 * [탐색하기1](https://github.com/wjdrbs96/goormedu_Algorithm/blob/master/CodeFun/Search1.java)
 
 
+<<<<<<< HEAD
 ### 알고리즘 연산량 
+=======
+<ul>
+  <li><a href="https://github.com/wjdrbs96/goormedu_Algorithm/blob/master/Algorithms/StringSolve.java">문자열 비교하기</a></li>
+  <li><a href="https://github.com/wjdrbs96/goormedu_Algorithm/blob/master/Algorithms/Diversity.java">다양성 </a></li>
+  <li><a href="https://github.com/wjdrbs96/goormedu_Algorithm/blob/master/Algorithms/MatchFixing.java">승부조작</a></li>
+</ul>
+>>>>>>> aa22323027e6beefde72915f1f5d3a02f9bc4942
 
 * [문자열 비교하기](https://github.com/wjdrbs96/goormedu_Algorithm/blob/master/Algorithms/StringSolve.java)
 * [다양성](https://github.com/wjdrbs96/goormedu_Algorithm/blob/master/Algorithms/Diversity.java)
