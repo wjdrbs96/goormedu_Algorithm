@@ -1,6 +1,8 @@
 
 # [goormedu Algorithm Basic](https://edu.goorm.io/learn/lecture/554/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%EA%B8%B0%EB%B2%95-%EC%9E%85%EB%AC%B8) 
 
+    📄구름에듀의 알고리즘 문제를 풀어 올리는 공간입니다. 
+
 ### 코드와 친해지기 
 
 * [탐색하기1](https://github.com/wjdrbs96/goormedu_Algorithm/blob/master/CodeFun/Search1.java)
